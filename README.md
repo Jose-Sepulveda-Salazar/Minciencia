@@ -4,3 +4,6 @@
     * conda env create -f imasdEnv.yml
     * El archivo .yml contiene las librarías y versiones necesarias para la ejecución del programa.
 * También considerar un archivo.conf para alojar las credenciales de acceso a la BD.
+    * [postgresql]
+      user=postgres
+      password=******
