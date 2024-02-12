@@ -1,9 +1,5 @@
 # Minciencia
-Para una correcta ejecución del programa se utilizan las siguientes funcionalidades
-* Python version 3.9
-* Selenium version 4.8
-* openpyxl version 3.1
-* pandas version 1.4
-* psycopg2 version 2.9
-* webdriver-manager version 4
-* archivo.conf como credencial de acceso.
+* Al crear un entorno virtual ejecutar el siguiente Script, considerar que debe estar alojado el archivo .yml en la misma carpeta.
+    * conda env create –name minciencia –file=imasd_Env.yml
+    * El archivo .yml contiene las librarías necesaras para la ejecución del programa.
+* También considerar un archivo.conf para alojar las credenciales de acceso a la BD.
