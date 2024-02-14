@@ -11,4 +11,4 @@ dependencies:
       - webdriver-manager==4.0
       - psycopg2==2.9.9
       - selenium==4.8.0
-      - requests==20.31
+      - requests
