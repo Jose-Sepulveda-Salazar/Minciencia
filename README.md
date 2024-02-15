@@ -3,7 +3,4 @@
 * Al crear un entorno virtual ejecutar el siguiente Script, considerar que debe estar alojado el archivo .yml en la misma carpeta.
     * conda env create -f imasdEnv.yml
     * El archivo .yml contiene las librarías y versiones necesarias para la ejecución del programa.
-* También considerar un archivo.conf para alojar las credenciales de acceso a la BD.
-    * [postgresql]
-    * user=postgres
-    * password=******
+* También configurar la acredencial_login para conectarse al SGBD
