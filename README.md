@@ -4,3 +4,4 @@
     * conda env create -f imasdEnv.yml
     * El archivo .yml contiene las librarías y versiones necesarias para la ejecución del programa.
 * También configurar la acredencial_login para conectarse al SGBD
+* Enlace vscode: https://code.visualstudio.com/download
