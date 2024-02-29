@@ -12,11 +12,11 @@
    * Seleccionar "Use Visual Studio Code as Git's default editor"
    * Seleccionar "Use Windows' default console window"
    * Check en las casillas:
-         * "Enable experimental support for pseudo consoles."
-         * "Enable experimental built-in file system monitor"
+      - "Enable experimental support for pseudo consoles."
+      - "Enable experimental built-in file system monitor"
 4. Clonar repositorio
    * git clone https://github.com/Jose-Sepulveda-Salazar/Minciencia.git
-5. crear entorno vistual desde "Anaconda Pront(miniconda3)"
+5. crear entorno virtual desde "Anaconda Pront(miniconda3)"
    * alojar el archivo.yml en el directorio del entorno C:\Users\usuario>
    * conda env create –f Env.yml
 6. Abrir VScode y esperar a que se instalen las extensiones por defecto (Jupyter y Python)
