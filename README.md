@@ -25,7 +25,7 @@
        - ministerio
 11. Al ejecutar por primera vez el programa aparecerá una ventana
     * instalar "Running cells with 'ministerio' requiers the ipykernel package"
-12.Ejecutar programa :)
+12. Ejecutar programa :)
 
 
 
