@@ -21,8 +21,8 @@
    * conda env create –f Env.yml
 8. Abrir VScode y esperar a que se instalen las extensiones por defecto (Jupyter y Python)
 9. Conectarse al Kernel
-       - Python Envyroments
-       - ministerio
+   * Seleccionar "Python Envyroments"
+   * Seleccionar "ministerio"
 11. Al ejecutar por primera vez el programa aparecerá una ventana
     * instalar "Running cells with 'ministerio' requiers the ipykernel package"
 12. Ejecutar programa :)
