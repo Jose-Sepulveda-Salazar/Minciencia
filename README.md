@@ -17,7 +17,7 @@
 4. Clonar repositorio
    * git clone https://github.com/Jose-Sepulveda-Salazar/Minciencia.git
 5. crear entorno virtual desde "Anaconda Pront(miniconda3)"
-   * alojar el archivo.yml en el directorio del entorno C:\Users\usuario>
+   * alojar el archivo YAML en el directorio del entorno C:\Users\usuario>
    * conda env create –f Env.yml
 6. Abrir VScode y esperar a que se instalen las extensiones por defecto (Jupyter y Python)
 7. Conectarse al Kernel
